@@ -1,0 +1,64 @@
+.container
+{
+  display:inline-block;
+  
+  top:50px;
+  width :290px;
+  min-height :285px;
+  background-color : #F2F5A9;
+  vertical-align: top;
+  padding:5px;
+  
+}
+H2
+{
+  text-align: center ;
+}
+H4
+{
+  text-align: center ;
+}
+#perkslider
+{
+position:relative;
+background-image: url(https://m208.github.io/focp/art/gfx/slider.gif);
+width: 43px;
+height: 29px;
+left:4000px;
+top:2000px;
+}
+#perkplus
+{
+ position:absolute;
+}
+#perkminus
+{
+  position:absolute;
+  left:45px;
+}
+.perk
+{
+  
+}
+.perkHi
+{
+  
+}
+.somenumbers
+{
+  position:sticky;
+  left:5558px;
+}
+.toggler
+{
+ 
+ 
+}
+.drug
+{
+  
+}
+#outputDrugs
+{
+  width:145px;
+}
